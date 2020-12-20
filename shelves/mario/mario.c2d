@@ -8430,15 +8430,15 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": 5.08,
-                    "name": "Pocket Toolpath 9",
+                    "end_depth": 3.8099999999999996,
+                    "name": "Pocket Toolpath 8",
                     "speeds": {
-                        "feedrate": 889,
-                        "plungerate": 304.79999999999995,
-                        "rpm": 10000
+                        "feedrate": 1143,
+                        "plungerate": 381,
+                        "rpm": 20000
                     },
                     "start_depth": 0,
-                    "stepdown": 0.635,
+                    "stepdown": 1.27,
                     "stepover": 0.7874,
                     "stock_to_leave": 0.5,
                     "tolerance": 0.01,
@@ -8447,20 +8447,20 @@
                         "corner_radius": 0,
                         "diameter": 1.5875,
                         "display_mm": false,
-                        "finish_allowance": 0.254,
+                        "finish_allowance": 0.38099999999999995,
                         "flutes": 2,
                         "length": 6.35,
                         "model": "112",
                         "name": "",
                         "number": 112,
                         "overall_length": 3.175,
-                        "plungerate": 304.79999999999995,
+                        "plungerate": 381,
                         "read_only": true,
-                        "slot_depth": 0.635,
-                        "slot_feedrate": 889,
-                        "slot_rpm": 10000,
-                        "surfacing_feedrate": 1524,
-                        "surfacing_rpm": 10000,
+                        "slot_depth": 0.7619999999999999,
+                        "slot_feedrate": 1143,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1143,
+                        "surfacing_rpm": 18000,
                         "surfacing_stepover": 15,
                         "type": 0,
                         "url": "https://shop.carbide3d.com/products/112-0625-flat-cutter-qty-3",
@@ -8468,7 +8468,7 @@
                         "vendor": "Carbide 3D"
                     },
                     "type": "pocket_toolpath",
-                    "uuid": "{ae2e3dcf-82fe-4296-b4f9-050c19a7188f}"
+                    "uuid": "{fbb37448-8038-488b-836c-72f985e48712}"
                 }
             ],
             "enabled": true,

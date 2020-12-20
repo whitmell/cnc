@@ -7657,16 +7657,16 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": 5.08,
+                    "end_depth": 3.8099999999999996,
                     "name": "Pocket Toolpath 7",
                     "speeds": {
                         "feedrate": 1524,
                         "plungerate": 457.2,
-                        "rpm": 18000
+                        "rpm": 20000
                     },
                     "start_depth": 0,
                     "stepdown": 1.1429999999999998,
-                    "stepover": 1.5875,
+                    "stepover": 1.5748,
                     "stock_to_leave": 0.5,
                     "tolerance": 0.01,
                     "tool": {

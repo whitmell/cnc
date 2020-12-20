@@ -10548,8 +10548,8 @@
                         }
                     ],
                     "enabled": true,
-                    "end_depth": 5.08,
-                    "name": "Pocket Toolpath 10",
+                    "end_depth": 3.8099999999999996,
+                    "name": "Pocket Toolpath 4",
                     "speeds": {
                         "feedrate": 1524,
                         "plungerate": 457.2,
@@ -10557,7 +10557,7 @@
                     },
                     "start_depth": 0,
                     "stepdown": 1.1429999999999998,
-                    "stepover": 1.5875,
+                    "stepover": 1.5748,
                     "stock_to_leave": 0.5,
                     "tolerance": 0.01,
                     "tool": {
@@ -10586,7 +10586,7 @@
                         "vendor": "Carbide 3D"
                     },
                     "type": "pocket_toolpath",
-                    "uuid": "{113df17a-6550-4e83-b7d3-2a82afd0ddf5}"
+                    "uuid": "{6880b783-a001-4033-a2f4-7dbcea14c5b5}"
                 }
             ],
             "enabled": true,

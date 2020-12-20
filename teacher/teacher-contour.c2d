@@ -10627,7 +10627,7 @@
                     "speeds": {
                         "feedrate": 254,
                         "plungerate": 203.2,
-                        "rpm": 10000
+                        "rpm": 19000
                     },
                     "start_depth": 0,
                     "stepdown": 23.622,
