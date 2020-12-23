@@ -10785,173 +10785,57 @@
         {
             "TOOLPATH_OBJECTS": [
                 {
-                    "angle": 0,
                     "automatic_parameters": true,
                     "elements": [
                         {
-                            "uuid": "{ccbcd557-563d-4ed5-b951-0e5328f31209}"
-                        },
-                        {
-                            "uuid": "{8953a8ba-574f-40cb-bd69-323c518bc8f7}"
-                        },
-                        {
-                            "uuid": "{81d08865-d60a-4838-a5e5-0ba9df9a3cac}"
-                        },
-                        {
-                            "uuid": "{cf334475-9465-4964-b903-e2c07fd2cc87}"
-                        },
-                        {
-                            "uuid": "{584d342e-cc15-4fc3-b61c-4706754068c8}"
-                        },
-                        {
-                            "uuid": "{5dce70e4-3c2d-4f71-9bcb-1f7a03e4a9b7}"
-                        },
-                        {
-                            "uuid": "{7bffcd55-4e23-4482-8b2d-581af2a953e9}"
-                        },
-                        {
-                            "uuid": "{b0998a50-a353-40db-8a48-a99acc57a2e4}"
-                        },
-                        {
-                            "uuid": "{f959a1be-ff58-4d0e-9b35-8909b161898b}"
-                        },
-                        {
-                            "uuid": "{ca79a2fc-9297-4136-967f-576bf48e2281}"
-                        },
-                        {
-                            "uuid": "{c01039ce-8126-43a2-ab5a-6a140ac4a9f1}"
-                        },
-                        {
-                            "uuid": "{f7bdf302-7cef-4746-a57a-145f9b89c9a5}"
-                        },
-                        {
-                            "uuid": "{cfe7c50e-d485-4f77-b8b0-c360f2e6dda5}"
-                        },
-                        {
-                            "uuid": "{c57e49bc-2a14-49f9-9667-303ecace3b66}"
-                        },
-                        {
-                            "uuid": "{fed7107a-458c-4c32-90e2-2e346b454f29}"
-                        },
-                        {
-                            "uuid": "{7c295034-8193-40d1-9023-b5383ea12e66}"
-                        },
-                        {
-                            "uuid": "{f221e02a-2da1-4e50-9d12-05b5576c3008}"
-                        },
-                        {
-                            "uuid": "{51504c39-7250-451e-8bc3-1499ba7a9de5}"
-                        },
-                        {
-                            "uuid": "{67b72cf2-dcae-442b-a0da-efb0f7b82d74}"
-                        },
-                        {
-                            "uuid": "{edbec454-66f8-4292-945c-3c7f86299243}"
-                        },
-                        {
-                            "uuid": "{09820154-72c3-447b-baf9-882c0f851d1d}"
-                        },
-                        {
-                            "uuid": "{bda9078d-4696-4bea-8c3c-6702b1afa1d3}"
-                        },
-                        {
-                            "uuid": "{83ae25d0-1f7c-4f8f-8740-91cdedd5696e}"
-                        },
-                        {
-                            "uuid": "{39801c6c-8635-4527-832a-a3266eeea003}"
-                        },
-                        {
-                            "uuid": "{46d4da9e-d3af-4402-9fb2-82c9f6250cf2}"
-                        },
-                        {
-                            "uuid": "{8ae057f8-9851-4023-998a-41cdb1689716}"
-                        },
-                        {
-                            "uuid": "{9fb45855-2a6f-4e8a-b776-3e6e77a34ee3}"
-                        },
-                        {
-                            "uuid": "{2c77b71d-9e5a-4f50-b650-9b04cefe6498}"
-                        },
-                        {
-                            "uuid": "{12eacf85-db35-46f7-806d-e1dc94b257e4}"
-                        },
-                        {
-                            "uuid": "{f571c609-a188-49c3-b39f-3dce47f92cdf}"
-                        },
-                        {
-                            "uuid": "{bb803c7d-9b8a-4597-8b83-5a01221981bf}"
-                        },
-                        {
-                            "uuid": "{f9383d4a-c1af-40d2-b4e0-0e4555e850db}"
-                        },
-                        {
-                            "uuid": "{e1493088-65a7-43bc-adcf-606140dc73f2}"
-                        },
-                        {
-                            "uuid": "{4a7e06a7-8d00-4585-ab2a-aa56bafc7c62}"
-                        },
-                        {
-                            "uuid": "{e5be4518-a019-45f8-9fe3-f2d6674dc68e}"
-                        },
-                        {
-                            "uuid": "{1f34050c-3319-4e89-a8b8-7a4bdaf21a34}"
-                        },
-                        {
-                            "uuid": "{06bc8125-f36b-475f-834b-57ba65a1d1e8}"
-                        },
-                        {
-                            "uuid": "{8a32d668-b00c-46e2-82af-c05e645cf26d}"
-                        },
-                        {
-                            "uuid": "{132e6429-de1f-434a-a80a-0814e1db667c}"
-                        },
-                        {
-                            "uuid": "{90b7c86f-7683-419c-bb97-c909cd11530f}"
-                        },
-                        {
-                            "uuid": "{932fbe89-c56a-422d-9345-28e255deb412}"
+                            "tab_index": [
+                            ],
+                            "tab_u": [
+                            ],
+                            "uuid": "{2bdd1737-5fb6-4fbd-a6d1-f52b5a488828}"
                         }
                     ],
                     "enabled": true,
-                    "end_depth": 0.38099999999999995,
-                    "name": "Pocket Toolpath 45",
+                    "end_depth": 12.7,
+                    "name": "Contour Toolpath 21",
+                    "ofset_dir": 1,
                     "speeds": {
-                        "feedrate": 1524,
-                        "plungerate": 203.2,
+                        "feedrate": 1397,
+                        "plungerate": 381,
                         "rpm": 18000
                     },
                     "start_depth": 0,
-                    "stepdown": 0.2032,
-                    "stepover": 0.2032,
-                    "stock_to_leave": 0.5,
+                    "stepdown": 0.7619999999999999,
+                    "stepover": 3,
+                    "tab_height": 3,
+                    "tab_width": 11.998959999999999,
                     "tolerance": 0.01,
                     "tool": {
-                        "angle": 7.5,
+                        "angle": 0,
                         "corner_radius": 0,
-                        "diameter": 0.127,
+                        "diameter": 3.175,
                         "display_mm": false,
-                        "finish_allowance": 2.54,
+                        "finish_allowance": 0.508,
                         "flutes": 2,
-                        "length": 12.7,
-                        "model": "45780",
-                        "name": "I'm On A Tool",
-                        "number": 10,
-                        "overall_length": 38.099999999999994,
-                        "plungerate": 203.2,
-                        "read_only": false,
-                        "slot_depth": 23.622,
-                        "slot_feedrate": 1524,
-                        "slot_rpm": 10000,
+                        "length": 19.049999999999997,
+                        "model": "102",
+                        "name": "",
+                        "number": 102,
+                        "overall_length": 3.175,
+                        "plungerate": 381,
+                        "read_only": true,
+                        "slot_depth": 0.7619999999999999,
+                        "slot_feedrate": 1143,
+                        "slot_rpm": 18000,
                         "surfacing_feedrate": 1524,
-                        "surfacing_rpm": 10000,
-                        "surfacing_stepover": 20,
-                        "type": 2,
-                        "url": "",
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 15,
+                        "type": 0,
+                        "url": "https://shop.carbide3d.com/products/102-125-flat-cutter-qty-3",
                         "uuid": "{00000000-0000-0000-0000-000000000000}",
-                        "vendor": "Amana"
+                        "vendor": "Carbide 3D"
                     },
-                    "type": "pocket_toolpath",
-                    "uuid": "{823700d1-5a47-4e5d-9660-e6ca2e5fe0ea}"
+                    "uuid": "{941a0fc8-9439-4b60-87d8-52e9f361aff0}"
                 }
             ],
             "enabled": true,
